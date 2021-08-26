@@ -18,7 +18,7 @@ The tools used to run this database are:
 
 ## Database Draw
 Here is the drawing of the database with tables relationships:
-![Database draw](database_drawing.png)
+![Database draw](english_files/database_drawing.png)
 
 ## Available information
 Using SQL queries is possible to answer these and much more questions:
